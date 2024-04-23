@@ -10,3 +10,5 @@ const tasks = [
 ];
 // expexted result: 1
 ```
+
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
